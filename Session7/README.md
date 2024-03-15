@@ -6,11 +6,10 @@
 * Less than 8000 Parameters 
 * Explain your 3 steps using these target, results, and analysis with links to your GitHub files
 
-# **Step 1**
 ______________
+# **Step 1**
 
 [Code 1](https://github.com/dine1717/ERA2/blob/main/Session7/Step_1.ipynb)
-
 
 # Target
  1. Settle on Architeture
@@ -89,8 +88,7 @@ ___________
  3. Going deeper with 7 conv layers helped
  4. Added 1x1 conv layer after GAP
  5. Consistently above 99.35 in the last 5 epochs
- 
-
+___________
 
 # **Step 5**
  [Code 5](https://github.com/dine1717/ERA2/blob/main/Session7/Step_5.ipynb)
@@ -107,7 +105,6 @@ ___________
 3.Best Test Accuracy = 99.46
 
 # Analysis
-
 1.We pushed the model to achieve target with approx 8k Parameters
 2. Model consistently has 99.4 accuracy in the last 5 epocs
 3. Onecycle LR is pure magic
