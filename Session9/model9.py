@@ -1,6 +1,6 @@
-class CifarNet10(nn.Module):
+class CifarNet(nn.Module):
     def __init__(self):
-        super(CifarNet10, self).__init__()
+        super(CifarNet, self).__init__()
 
 # FIRST MAJOR BLOCK
         # first convolutional block
